@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younan Adly</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="1080" height="324">
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="432" height="324">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younanadly&label=Profile%20views&color=0e75b6&style=flat" alt="younanadly" /> </p>
