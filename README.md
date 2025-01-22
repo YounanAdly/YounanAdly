@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **yuonancloud@gmail.com**
 
-- 📄 Know about my experiences https://rb.gy/1srlob
+- 📄 Know about my experiences https://shorturl.at/xxaTn
 
 - ⚡ Fun fact **Coffee tastes way better than Chai**
 
